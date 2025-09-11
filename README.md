@@ -48,7 +48,7 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: Riski Akbar  
-- 📷 Instagram: saotome_risu 
+- 📷 Instagram: https://www.instagram.com/saotome_risu/
 - 📧 Email: muhammadriskiakbar118@gmail.com  
 
 ---
