@@ -29,14 +29,6 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=radical" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=radical" alt="top langs"/>
-</p>
-
----
-
 ## 🚀 What I'm Working On
 - Building small security tools (port scanners, hash checkers, password strength testers, etc).  
 - Exploring penetration testing and networking projects.  
