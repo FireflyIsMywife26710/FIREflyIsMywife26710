@@ -31,8 +31,10 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=radical" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUserName&layout=compact&theme=radical" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FIREflyIsMywife26710
+&show_icons=true&theme=radical" alt="github stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FIREflyIsMywife26710
+&layout=compact&theme=radical" alt="top langs"/>
 </p>
 
 ---
