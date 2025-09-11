@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Header image / GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="hacker-gif" width="480"/>
