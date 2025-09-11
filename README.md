@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="hacker-gif" width="480"/>
 </p>
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Muhammad Riski Akbar 
 **Programmer | Ethical Hacker | Cyber Security Student (TJKT)**
 
 Welcome to my GitHub profile!  
@@ -47,9 +47,9 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [Riski Akbar]  
-- 📷 Instagram: [saotome_risu]  
-- 📧 Email: [muhammadriskiakbar118@gmail.com]  
+- 💼 LinkedIn: Riski Akbar  
+- 📷 Instagram: saotome_risu 
+- 📧 Email: muhammadriskiakbar118@gmail.com  
 
 ---
 
