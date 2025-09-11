@@ -1,8 +1,3 @@
-<!-- Header image / GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/HoffxyN8ghVuw/giphy.gif" alt="hacker-gif" width="480"/>
-</p>
-
 # 👋 Hey, I'm Muhammad Riski Akbar 
 **Programmer | Ethical Hacker | Cyber Security Student (TJKT)**
 
