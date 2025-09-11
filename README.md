@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on everyone want with me
 - 🤔 I’m looking for help with someone want help me
 - 💬 Ask me about cyber security mybe?
-- 📫 How to reach me: just send email or DM in my media sosial
+- 📫 How to reach me: just send email or DM in my social media
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->I am an otaku or anime lover and I like reading manga and manhwa, and I am very introverted and yeah... a bit weird, especially since I love my waifu Firefly from the game Honkai Star Rail.
