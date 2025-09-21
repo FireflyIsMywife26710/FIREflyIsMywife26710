@@ -34,7 +34,7 @@ I enjoy programming, ethical hacking, and exploring how technology really works 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/riski-akbar-a7b20a363/
 - 📷 Instagram: https://www.instagram.com/saotome_risu/
-- 📧 Email: muhammadriskiakbar118@gmail.com  
+- 📧 Email: muhammadriskiakbar2009@gmail.com  
 
 ---
 
